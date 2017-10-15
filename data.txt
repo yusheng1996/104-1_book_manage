@@ -1,0 +1,5 @@
+Taipei_101          	Building       	Discovery   	K05031	Knowledge      	2005
+Burj_Khalifa        	Building       	Discovery   	K11020	Knowledge      	2011
+Java                	Savitch        	PEARSON     	P15036	Programming    	2015
+Winter_Endless      	Sodagreen      	Will_Lin's  	A15022	Mix_Album      	2015
+Bubble_EP           	Waa_Wei        	Sony_Music  	A08011	Female_Album   	2008
